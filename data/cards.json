@@ -1,0 +1,11 @@
+[
+  
+  {
+    "id": "ramadan",
+    "title": "Рамадан",
+    "description": "Открытка к началу Рамадана",
+    "imageUrl": "https://github.com/annver-dev/cards/blob/main/images/1.jpeg",
+    "holidayId": "ramadan",
+    "category": "праздник"
+  }
+]
